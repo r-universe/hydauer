@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FlowScreen"]
+	path = FlowScreen
+	url = https://github.com/cran/FlowScreen
+	shallow = true
+	registered = true
